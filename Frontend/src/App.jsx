@@ -16,7 +16,7 @@ function App() {
   const [view, setView] = useState("menu"); // menu | cart | checkout | status
 
   useEffect(() => {
-    fetch("http://localhost:4000/api/menu")
+    fetch("/api/menu")
       .then((res) => res.json())
       .then(setMenu);
   }, []);

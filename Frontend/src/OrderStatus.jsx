@@ -11,7 +11,7 @@ function OrderStatus() {
   useEffect(() => {
     let interval;
     const fetchStatus = () => {
-      fetch(`http://localhost:4000/api/orders/${orderId}`)
+      fetch(`/api/orders/${orderId}`)
         .then((res) => res.json())
         .then((data) => {
           setStatus(data.status);

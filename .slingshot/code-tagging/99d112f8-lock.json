@@ -1,0 +1,111 @@
+{
+  "package.json": {
+    "filename": "package.json",
+    "path": "package.json",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "3b98c9": {
+        "user": "Hiralben Baraiya",
+        "model": "gpt-4.1",
+        "timestamp": 1771936349,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.2.0",
+        "source": "chat",
+        "type": "saveCreateNewFile",
+        "extraContext": {},
+        "hash": "09f886a0",
+        "messageId": "system_96bf1c80-117c-11f1-8907-c55c10e64fba",
+        "codeBlockId": "system_96bf1c80-117c-11f1-8907-c55c10e64fba-Codeblock-2",
+        "isActive": true
+      }
+    },
+    "lines": {
+      "0": {
+        "chunkId": "3b98c9",
+        "hash": "47009686",
+        "encoded": "%7B",
+        "prevChunkIds": []
+      },
+      "1": {
+        "chunkId": "3b98c9",
+        "hash": "c2e22c9d",
+        "encoded": "%22name%22:%20%22fooddelivery-backend%22,",
+        "prevChunkIds": []
+      },
+      "2": {
+        "chunkId": "3b98c9",
+        "hash": "bde4980f",
+        "encoded": "%22version%22:%20%221.0.0%22,",
+        "prevChunkIds": []
+      },
+      "3": {
+        "chunkId": "3b98c9",
+        "hash": "97e158fb",
+        "encoded": "%22main%22:%20%22server.js%22,",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "3b98c9",
+        "hash": "5a95088f",
+        "encoded": "%22type%22:%20%22module%22,",
+        "prevChunkIds": []
+      },
+      "5": {
+        "chunkId": "3b98c9",
+        "hash": "f4278672",
+        "encoded": "%22scripts%22:%20%7B",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "3b98c9",
+        "hash": "ad7e8062",
+        "encoded": "%22start%22:%20%22node%20server.js%22",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "3b98c9",
+        "hash": "56b41f88",
+        "encoded": "%7D,",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "3b98c9",
+        "hash": "39b0b323",
+        "encoded": "%22dependencies%22:%20%7B",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "3b98c9",
+        "hash": "92d059f4",
+        "encoded": "%22cors%22:%20%22%5E2.8.5%22,",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "3b98c9",
+        "hash": "104ed399",
+        "encoded": "%22express%22:%20%22%5E4.18.2%22,",
+        "prevChunkIds": []
+      },
+      "11": {
+        "chunkId": "3b98c9",
+        "hash": "fe228cbb",
+        "encoded": "%22uuid%22:%20%22%5E9.0.0%22",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "3b98c9",
+        "hash": "6a3f2143",
+        "encoded": "%7D",
+        "prevChunkIds": []
+      },
+      "13": {
+        "chunkId": "3b98c9",
+        "hash": "e683dcf7",
+        "encoded": "%7D",
+        "prevChunkIds": []
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Frontend\\tailwind.config.js": {
+    "filename": "tailwind.config.js",
+    "path": "Frontend\\tailwind.config.js",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "3f1a85": {
+        "user": "Hiralben Baraiya",
+        "model": "gpt-4.1",
+        "timestamp": 1772023337,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "2.2.0",
+        "source": "chat",
+        "type": "saveCreateNewFile",
+        "extraContext": {},
+        "hash": "b02ae17d",
+        "messageId": "system_e56ccec0-1246-11f1-a8ff-fdf9bfa717ad",
+        "codeBlockId": "system_e56ccec0-1246-11f1-a8ff-fdf9bfa717ad-Codeblock-3",
+        "isActive": true
+      }
+    },
+    "lines": {
+      "0": {
+        "chunkId": "3f1a85",
+        "hash": "b95d1779",
+        "encoded": "/**%20@type%20%7Bimport('tailwindcss').Config%7D%20*/",
+        "prevChunkIds": []
+      },
+      "1": {
+        "chunkId": "3f1a85",
+        "hash": "c4c9d554",
+        "encoded": "module.exports%20=%20%7B",
+        "prevChunkIds": []
+      },
+      "3": {
+        "chunkId": "3f1a85",
+        "hash": "2b4157de",
+        "encoded": "theme:%20%7B",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "3f1a85",
+        "hash": "1e550a41",
+        "encoded": "extend:%20%7B%7D,",
+        "prevChunkIds": []
+      },
+      "5": {
+        "chunkId": "3f1a85",
+        "hash": "ad84ff3b",
+        "encoded": "%7D,",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "3f1a85",
+        "hash": "d5ef2b98",
+        "encoded": "plugins:%20%5B%5D,",
+        "prevChunkIds": []
+      }
+    }
+  }
+}

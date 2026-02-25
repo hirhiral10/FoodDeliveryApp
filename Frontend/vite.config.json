@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "@vitejs/plugin-react"
+    ]
+  ],
+  "server": {
+    "port": 3000
+  }
+}
